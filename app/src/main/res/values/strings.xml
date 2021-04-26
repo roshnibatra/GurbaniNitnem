@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gurbani Nitnem</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="japji_sahib">JapJi Sahib</string>
+    <string name="jaap_sahib">Jaap Sahib</string>
+    <string name="tav_prasad_sahib">Tav-Prasad Sahib</string>
+    <string name="chaupai_sahib">Chaupai Sahib</string>
+    <string name="anand_sahib">Anand Sahib</string>
+    <string name="rehras_sahib">Rehras Sahib</string>
+    <string name="kirtan_sohila">Kirtan Sohila</string>
+</resources>

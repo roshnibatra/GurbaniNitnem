@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/gold_bg_simple"
+    tools:context=".ui.MainPage">
+
+  <Button
+      android:layout_marginTop="30dp"
+      android:id="@+id/japji_sahib"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_gravity="center"
+      android:layout_marginBottom="10dp"
+      android:textColor="@color/brown"
+      android:text="@string/japji_sahib"/>
+
+    <Button
+        android:id="@+id/jap_sahib"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:textColor="@color/brown"
+        android:text="@string/jaap_sahib"/>
+
+    <Button
+        android:id="@+id/tav_prasaad_sahib"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:textColor="@color/brown"
+        android:text="@string/tav_prasad_sahib"/>
+
+    <Button
+        android:id="@+id/chaupai_sahib"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:textColor="@color/brown"
+        android:text="@string/chaupai_sahib"/>
+
+    <Button
+        android:id="@+id/anand_sahib"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:textColor="@color/brown"
+        android:text="@string/anand_sahib"/>
+
+    <Button
+        android:id="@+id/rehras_sahib"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:textColor="@color/brown"
+        android:text="@string/rehras_sahib"/>
+
+    <Button
+        android:id="@+id/kirtan_sohila"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:textColor="@color/brown"
+        android:text="@string/kirtan_sohila"/>
+
+    <ImageView
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:src="@drawable/guru_granth_sahib_ji_maharaj"/>
+
+</LinearLayout>
